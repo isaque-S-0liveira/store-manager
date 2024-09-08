@@ -10,7 +10,7 @@ O foco principal deste projeto é, com base nos ensinamentos da **Trybe**, desen
 </details>
 
 <details>
-  <summary>🎲Diagrama ER, Entidades e Scripts</summary>
+  <summary>🎲Diagrama ER</summary>
   <div style="display:flex; justify-content:center;  align-items:center; width="100%">
   <img src="Preview/erStoreManager.png" alt="page1"/>
   </div>
